@@ -23,7 +23,7 @@ EメールとMacbookの通知機能を使ってお知らせを行います．
 
 # Contents
 [item_list.csv]:
-![result]()
+![result](https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/In_stock.csv,"VIEW")
 <br>input file, URL of the item you want, ideal price you want to be noticed, category
 <br>
 入力ファイルです．ここに，”欲しい商品のURL”，”通知を受ける条件価格”，”商品のカテゴリ” を入力してください．
