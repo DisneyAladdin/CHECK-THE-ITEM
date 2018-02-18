@@ -22,7 +22,7 @@ EメールとMacbookの通知機能を使ってお知らせを行います．
 また，同じカテゴリ内でどの店舗が一番安く売っているのかがわかるので，非常に効率よく買い物ができます．
 
 # Contents
-[item_list.csv]:
+item_list.csv
 <br>
 ![VIEW](https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/item_list.csv)
 <br>
@@ -30,7 +30,7 @@ input file, URL of the item you want, ideal price you want to be noticed, catego
 <br>
 入力ファイルです．ここに，”欲しい商品のURL”，”通知を受ける条件価格”，”商品のカテゴリ” を入力してください．
 
-[in_stock.csv]:
+in_stock.csv
 <br>
 ![VIEW](https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/In_stock.csv)
 <br>
@@ -39,7 +39,9 @@ output file, if the item is in stock, price, real price including tax and point,
 出力ファイルです．在庫のある商品と現時点での最安値とその店舗を表示します．
 メールにも同じ内容の通知が来ます．
 
-[zaiko.pl]: program code, monitor the items you prepared as the input file.
+zaiko.pl
+<br>
+program code, monitor the items you prepared as the input file.
 
 # How to use
 
