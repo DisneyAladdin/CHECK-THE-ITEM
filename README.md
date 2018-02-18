@@ -47,8 +47,11 @@ further more, find the lowest price and store in same category.
 3. change here as your receiving e-mail address -->https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko.pl#L152 <br>
 4. excute zaiko.pl<br>
 
-
 <img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png" width="700px"><br>
+
+# Caution
+The program probably stop if URL of the item does not exist.
+
 
 # Licence
 CopyRight (c) 2018 Shuto Kawabata
