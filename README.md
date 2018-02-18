@@ -5,7 +5,7 @@ This program automatically check items you want and let you know when something 
 To monitor items you want and if the item exists or changes its price lower than before, 
 notify by E-mail and noticeing function on Macbook.
 
-So, you can accept the notice while outing and get item you want.
+So, you can accept the notice soon while outing and get item you want.
 
 # Licence
 
