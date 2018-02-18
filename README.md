@@ -41,7 +41,8 @@ program code, monitor the item's stock condition and price.
 
 # How to use
 1. Prepare input file.<br> 
-2. change here as your e-mail address --><br> 
+2. change here as your sending e-mail address -->https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko.pl#L124 <br> 
+3. change here as your receiving e-mail address -->
 3. excute zaiko.pl<br>
 
 
