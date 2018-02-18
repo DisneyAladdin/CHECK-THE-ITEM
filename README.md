@@ -8,7 +8,13 @@ notify by E-mail and noticeing function on Macbook.
 So, you can accept the notice soon while outing and get item you want.
 
 # Licence
+CopyRight (c) 2018 Shuto Kawabata
 
+Released under the MIT licence
+
+https://opensource.org/licenses/MIT
 
 # Author
 Shuto Kawabata
+
+
