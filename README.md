@@ -4,6 +4,8 @@ This program automatically check items you want and let you know when condition 
 お気に入りに登録してある商品の在庫状況と価格を常に監視します．
 <br>
 在庫状況と価格に変化があればお知らせします．
+<br>
+<img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png" width="700px"><br>
 
 # Purpose
 To monitor items you want and if the item exists or changes its price lower than before, 
