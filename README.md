@@ -8,7 +8,7 @@ This program automatically check items you want and let you know when condition 
 Screen while the program running.<br>
 <img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png" width="700px"><br>
 E-mail notification<br>
-<img src"https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/e-mail-notification.png" width="600px"><br>
+<img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/e-mail-notification.png" width="600px"><br>
 
 # Purpose
 To monitor items you want and if the item exists or changes its price lower than before, 
