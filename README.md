@@ -5,7 +5,10 @@ This program automatically check items you want and let you know when condition 
 <br>
 在庫状況と価格に変化があればお知らせします．
 <br>
+Screen while the program running.<br>
 <img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png" width="700px"><br>
+E-mail notification<br>
+<img src"https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/e-mail-notification.png" width="600px"><br>
 
 # Purpose
 To monitor items you want and if the item exists or changes its price lower than before, 
@@ -49,7 +52,6 @@ further more, find the lowest price and store in same category.
 3. change here as your receiving e-mail address -->https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko.pl#L152 <br>
 4. excute zaiko.pl<br>
 
-<img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png" width="700px"><br>
 
 # Caution
 The program probably stop if URL of the item does not exist or style of the HTML changed.<br>
