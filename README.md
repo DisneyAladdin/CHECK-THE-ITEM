@@ -30,6 +30,7 @@ input file, URL of the item you want, ideal price you want to be noticed, catego
 <br>
 入力ファイルです．ここに，”欲しい商品のURL”，”通知を受ける条件価格”，”商品のカテゴリ” を入力してください．
 
+
 in_stock.csv
 <br>
 ![VIEW](https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/In_stock.csv)
@@ -38,6 +39,8 @@ output file, if the item is in stock, price, real price including tax and point,
 <br>
 出力ファイルです．在庫のある商品と現時点での最安値とその店舗を表示します．
 メールにも同じ内容の通知が来ます．
+
+
 
 zaiko.pl
 <br>
