@@ -5,9 +5,11 @@ This program automatically check items you want and let you know when condition 
 <br>
 在庫状況と価格に変化があればお知らせします．
 <br>
+<br>
 Screen while the program running.<br>
 <img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png" width="700px"><br>
-E-mail notification<br>
+<br>
+Example of E-mail notification<br>
 <img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/e-mail-notification.png" width="600px"><br>
 
 # Purpose
