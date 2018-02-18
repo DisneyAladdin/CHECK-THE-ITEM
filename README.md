@@ -31,7 +31,7 @@ input file, URL of the item you want, ideal price you want to be noticed, catego
 ## In_stock.csv
 output file, if the item is in stock, price, real price including tax and point, the lowest price in same category, URL are saved as a list.
 <br>
-出力ファイルです．在庫のある商品と現時点での最安値とその店舗を表示します．
+出力ファイルです．在庫のある商品と現時点での同じカテゴリ内の最安値，その店舗を表示します．
 メールにも同じ内容の通知が来ます．
 
 
