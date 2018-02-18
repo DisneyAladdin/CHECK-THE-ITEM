@@ -37,7 +37,7 @@ output file, if the item is in stock, price, real price including tax and point,
 
 
 ## zaiko.pl
-program code, monitor the items you prepared as the input file.
+program code, monitor the item's stock condition and price.
 
 # How to use
 
