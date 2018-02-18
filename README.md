@@ -7,11 +7,11 @@ notify by E-mail and noticeing function on Macbook.<br>
 So, you can accept the notice soon while outing and get item you want.
 
 # Contents
-item_list.csv: input file, URL of the item you want, ideal price you want to be noticed, category
+[item_list.csv]: input file, URL of the item you want, ideal price you want to be noticed, category
 <br>
-in_stock.csv: output file, if the item is in stock, price, real price including tax and point, the lowest price in same category, URL are saved as a list.
+[in_stock.csv]: output file, if the item is in stock, price, real price including tax and point, the lowest price in same category, URL are saved as a list.
 <br>
-zaiko.pl: program code, monitor the items you prepared as the input file.
+[zaiko.pl]: program code, monitor the items you prepared as the input file.
 
 # Licence
 CopyRight (c) 2018 Shuto Kawabata
