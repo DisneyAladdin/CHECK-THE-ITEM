@@ -50,7 +50,8 @@ further more, find the lowest price and store in same category.
 <img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png" width="700px"><br>
 
 # Caution
-The program probably stop if URL of the item does not exist.
+The program probably stop if URL of the item does not exist or style of the HTML changed.<br>
+
 
 
 # Licence
