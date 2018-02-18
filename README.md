@@ -28,7 +28,7 @@ input file, URL of the item you want, ideal price you want to be noticed, catego
 入力ファイルです．ここに，”欲しい商品のURL”，”通知を受ける条件価格”，”商品のカテゴリ” を入力してください．
 
 
-## in_stock.csv
+## In_stock.csv
 output file, if the item is in stock, price, real price including tax and point, the lowest price in same category, URL are saved as a list.
 <br>
 出力ファイルです．在庫のある商品と現時点での最安値とその店舗を表示します．
