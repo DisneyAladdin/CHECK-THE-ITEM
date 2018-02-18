@@ -38,7 +38,8 @@ output file, if the item is in stock, price, real price including tax and point,
 
 ## zaiko.pl
 program code, monitor the item's stock condition and price.<br>
-Scrape HTML and extract name of item, condition of the item and price.
+Scrape HTML and extract name of item, condition of the item and price.<br>
+further more, find the lowest price and store in same category.
 
 # How to use
 1. Prepare input file.<br> 
