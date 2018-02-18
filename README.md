@@ -24,7 +24,7 @@ EメールとMacbookの通知機能を使ってお知らせを行います．
 # Contents
 ## item_list.csv
 <br>
-![VIEW](https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/item_list.csv)
+(https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/item_list.csv,,,"view")
 <br>
 input file, URL of the item you want, ideal price you want to be noticed, category
 <br>
