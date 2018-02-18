@@ -40,7 +40,7 @@ output file, if the item is in stock, price, real price including tax and point,
 program code, monitor the item's stock condition and price.
 
 # How to use
-https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png
+<img src="https://github.com/shutokawabata0723/CHECK-THE-ITEM/blob/master/zaiko-screen.png" width="500px">
 
 # Licence
 CopyRight (c) 2018 Shuto Kawabata
